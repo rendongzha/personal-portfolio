@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--color-red);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+}
+
+.logo {
+  width: 9rem;
+}
+
+.navbar ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: var(--color-yellow);
+  padding: 1rem;
+}

@@ -1,0 +1,23 @@
+.welcome {
+  background-color: #002c2c;
+  height: 100vh;
+  text-align: center;
+  display: grid;
+  place-content: center;
+}
+
+.welcome h1 {
+  color: var(--color-yellow);
+  /* padding-top: 6rem; */
+
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  /* margin-top: 2rem; */
+}
+
+.welcome p {
+  color: var(--color-lightred);
+  font-size: 2rem;
+  font-weight: 300;
+  font-style: italic;
+}

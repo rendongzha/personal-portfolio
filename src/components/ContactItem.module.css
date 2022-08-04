@@ -1,0 +1,26 @@
+.contact-method {
+  display: inline-block;
+  list-style: none;
+  position: relative;
+  top: 0;
+  transition: top 0.5s ease;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.contact-link {
+  color: var(--color-yellow);
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contact-method:hover {
+  top: 0.5rem;
+}
+
+.contact-method span,
+.contact-method p {
+  margin-right: 0.5rem;
+}
