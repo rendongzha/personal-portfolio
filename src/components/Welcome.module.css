@@ -5,6 +5,7 @@
   display: grid;
   place-content: center;
   color: var(--color-yellow);
+  padding: 0 3rem;
 }
 
 .welcome h1 {
@@ -24,7 +25,13 @@
   margin-top: 1rem;
 }
 
-/* p.skillset {
-  font-size: 1.2rem;
-  font-style: normal;
-} */
+@media screen and (max-width: 450px) {
+  .welcome p {
+    margin-top: 3rem;
+    font-size: 2.2rem;
+  }
+
+  p.skillset {
+    font-size: 1.8rem;
+  }
+}
