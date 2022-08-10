@@ -4,6 +4,7 @@
   text-align: center;
   display: grid;
   place-content: center;
+  color: var(--color-yellow);
 }
 
 .welcome h1 {
@@ -16,8 +17,14 @@
 }
 
 .welcome p {
-  color: var(--color-lightred);
+  /* color: var(--color-lightred); */
   font-size: 2rem;
   font-weight: 300;
   font-style: italic;
+  margin-top: 1rem;
 }
+
+/* p.skillset {
+  font-size: 1.2rem;
+  font-style: normal;
+} */

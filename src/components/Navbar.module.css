@@ -26,3 +26,7 @@
   color: var(--color-yellow);
   padding: 1rem;
 }
+
+.navbar a:hover {
+  color: white;
+}
