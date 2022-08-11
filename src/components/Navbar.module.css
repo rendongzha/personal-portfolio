@@ -28,11 +28,14 @@
 }
 
 .navbar a:hover {
-  color: white;
+  color: #f4eee8;
 }
 
 @media screen and (max-width: 450px) {
   .navbar {
     display: none;
+  }
+  .logo {
+    width: 12rem;
   }
 }
