@@ -13,9 +13,9 @@ const PROJECT_DATA = [
   },
   {
     id: 3,
-    title: "Advice Generator",
-    webUrl: "https://advice-generator-katherine.netlify.app",
-    imageUrl: "./images/advice-generator.png",
+    title: "React Meetups",
+    webUrl: "https://meetup-nextjs-lac-two.vercel.app/",
+    imageUrl: "./images/react-meetups.png",
   },
   {
     id: 4,
@@ -26,9 +26,9 @@ const PROJECT_DATA = [
 
   {
     id: 5,
-    title: "React Meetups",
-    webUrl: "https://meetup-nextjs-lac-two.vercel.app/",
-    imageUrl: "./images/react-meetups.png",
+    title: "Rest Countries",
+    webUrl: "https://katherine-rest-countries.netlify.app/",
+    imageUrl: "./images/rest-countries.png",
   },
   {
     id: 6,
