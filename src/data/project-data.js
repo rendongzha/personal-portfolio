@@ -2,7 +2,7 @@ const PROJECT_DATA = [
   {
     id: 1,
     title: "Great Quotes",
-    webUrl: "https://advice-generator-katherine.netlify.app",
+    webUrl: "https://quotes-with-react-katherine.netlify.app",
     imageUrl: "./images/great-quotes.png",
   },
   {
